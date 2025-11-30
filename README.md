@@ -131,8 +131,8 @@ Tampilan seperti Instagram dengan badge merah.
 1. **Klon Repositori**
 
     ```bash
-    git clone https://github.com/adirasakhi/ukk-perpus-main-test.git
-    cd ukk-perpus-main-test
+    git clone https://github.com/adirasakhi/LuminaSnap.git
+    cd LuminaSnap
     composer install
     npm install
     cp .env.example .env
