@@ -1,7 +1,8 @@
 # 📸 LuminaSnap — Social Photo Sharing App
 
 LuminaSnap adalah platform berbagi foto modern yang terinspirasi dari **Pinterest** dan **Instagram**, dengan desain fresh, responsif, dan full interaksi sosial.  
-Dibangun menggunakan **Laravel 10 + TailwindCSS**, project ini cocok sebagai portfolio profesional yang menampilkan skill Backend & Frontend Development.
+Dibangun menggunakan **Laravel 12 + TailwindCSS**, Jika ingin Tanya tanya atau ada tambahan untuk project ini hubungi langsung aja
+[Adira](https://www.instagram.com/adirasakhi14).
 
 ---
 
@@ -10,28 +11,31 @@ Dibangun menggunakan **Laravel 10 + TailwindCSS**, project ini cocok sebagai por
 ### 🏠 Explore Page  
 Foto tampil dalam gaya **masonry grid**, mirip Pinterest.
 
-![Explore](https://i.imgur.com/c2PXp0C.jpeg)
+![Explore](https://github.com/adirasakhi/LuminaSnap/blob/main/public/preview/HalamanUtama(explore).png)
 
 ### 📱 Feed Page  
 Foto dari teman + terbaru, ala Instagram.
 
-![Feed](https://i.imgur.com/7zEdGGf.jpeg)
+![Feed](https://github.com/adirasakhi/LuminaSnap/blob/main/public/preview/HalamanFeed(Half).png)
+![Feed](https://github.com/adirasakhi/LuminaSnap/blob/main/public/preview/HalamanFeed(Half2).png)
+
 
 ### 👤 Profile Page  
 
----
+![Profile](https://github.com/adirasakhi/LuminaSnap/blob/main/public/preview/HalamanProfile.png)
+
 
 ### 🖼️ Photo Detail  
 Menampilkan foto, like, comment, dan follow.
 
-![Detail](https://i.imgur.com/dVqr3i3.jpeg)
+![Detail](https://github.com/adirasakhi/LuminaSnap/blob/main/public/preview/HalamanDetail(foto).png)
 
 ---
 
 ### 🔔 Notifications
 Like / Comment / Follow dengan badge realtime.
 
-![Notif](https://i.imgur.com/VL1dnEh.jpeg)
+![Notif](https://github.com/adirasakhi/LuminaSnap/blob/main/public/preview/HalamanNotification.png)
 
 ---
 
@@ -39,9 +43,7 @@ Like / Comment / Follow dengan badge realtime.
 
 ### 🔐 Autentikasi  
 - Register  
-- Login  
-- Email verification ready  
-- Forgot password  
+- Login   
 
 ---
 
@@ -54,7 +56,7 @@ Like / Comment / Follow dengan badge realtime.
 
 ### 📰 Feed Page  
 - Sistem rekomendasi sederhana:
-  - Foto teman dulu (1 minggu terakhir)
+  - Foto teman(follower or following) dulu (1 minggu terakhir)
   - Lalu foto terbaru secara global  
 - Infinite scroll feel  
 - Like & Comment langsung dari feed  
